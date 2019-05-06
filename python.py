@@ -16,14 +16,7 @@ print("line")
 print("done")
 
 
-x=[10,20,30,40]
-it=iter(x)
-print(next(it))
-print(next(it))
-print(next(it))
-print(next(it))
-for p in x:
-    print("iterations are",p)
+
 #inheritance
 class x:
     def m1(self):
